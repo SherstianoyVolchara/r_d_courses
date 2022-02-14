@@ -1,0 +1,57 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "courses_access": true,
+      "raiting": null,
+      "personal_info": {
+        "full_name": "Mariia Sidenko",
+        "gender": "female",
+        "age": 25,
+        "phone": null,
+        "email": "sometest@email.com",
+        "vaccinated": false,
+        "course_format": "online",
+        "online_format": true
+      },
+      "courses_info": {
+        "school_id": "gj3hvPkg",
+        "current_courses": [
+          "Quick Java",
+          "AT",
+          "Apache Kafka Series"
+        ],
+        "wishlist_courses_ids": [
+          2,
+          56,
+          187,
+          2341,
+          0,
+          145
+        ],
+        "search_tags": [
+          {
+            "TRENDING": true,
+            "is_important": "no"
+          },
+          {
+            "AUTOMATION": true,
+            "is_important": "yes"
+          },
+          {
+            "QA": true,
+            "is_important": "yes"
+          },
+          {
+            "BEST_SELLERS": false,
+            "is_important": null
+          },
+          {
+            "STAFF_PICKS": false,
+            "is_important": null
+          }
+        ]
+      }
+    }
+  ]
+}
