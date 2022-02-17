@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <students>
+        <id>1</id>
+        <courses_access>true</courses_access>
+        <raiting/>
+        <personal_info>
+            <full_name>Mariia Sidenko</full_name>
+            <gender>female</gender>
+            <age>25</age>
+            <phone/>
+            <email>sometest@email.com</email>
+            <vaccinated>false</vaccinated>
+            <course_format>online</course_format>
+            <online_format>true</online_format>
+        </personal_info>
+        <courses_info>
+            <school_id>gj3hvPkg</school_id>
+            <current_courses>Quick Java</current_courses>
+            <current_courses>AT</current_courses>
+            <current_courses>Apache Kafka Series</current_courses>
+            <wishlist_courses_ids>2</wishlist_courses_ids>
+            <wishlist_courses_ids>56</wishlist_courses_ids>
+            <wishlist_courses_ids>187</wishlist_courses_ids>
+            <wishlist_courses_ids>2341</wishlist_courses_ids>
+            <wishlist_courses_ids>0</wishlist_courses_ids>
+            <wishlist_courses_ids>145</wishlist_courses_ids>
+            <search_tags>
+                <TRENDING>true</TRENDING>
+                <is_important>no</is_important>
+            </search_tags>
+            <search_tags>
+                <AUTOMATION>true</AUTOMATION>
+                <is_important>yes</is_important>
+            </search_tags>
+            <search_tags>
+                <QA>true</QA>
+                <is_important>yes</is_important>
+            </search_tags>
+            <search_tags>
+                <BEST_SELLERS>false</BEST_SELLERS>
+                <is_important/>
+            </search_tags>
+            <search_tags>
+                <STAFF_PICKS>false</STAFF_PICKS>
+                <is_important/>
+            </search_tags>
+        </courses_info>
+    </students>
+</root>
